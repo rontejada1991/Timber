@@ -15,15 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\9781838648572_Code\Chapter05\code\Timber.cpp">
+    <ClCompile Include="Bee.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Bee.cpp">
+    <ClCompile Include="..\9781838648572_Code\Chapter05\code\Timber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Bee.h">
+    <ClInclude Include="Header Files\Bee.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
