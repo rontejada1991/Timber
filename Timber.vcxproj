@@ -149,11 +149,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="..\9781838648572_Code\Chapter05\code\Timber.cpp" />
     <ClCompile Include="Bee.cpp" />
+    <ClCompile Include="Cloud.cpp" />
+    <ClCompile Include="Timber.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header Files\Bee.h" />
+    <ClInclude Include="Header Files\Cloud.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

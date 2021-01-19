@@ -18,12 +18,18 @@
     <ClCompile Include="Bee.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\9781838648572_Code\Chapter05\code\Timber.cpp">
+    <ClCompile Include="Cloud.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Timber.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header Files\Bee.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Header Files\Cloud.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
